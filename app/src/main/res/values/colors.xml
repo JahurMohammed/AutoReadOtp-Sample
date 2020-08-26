@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3db5ea</color>
+    <color name="colorPrimaryDark">#0053E5</color>
+    <color name="colorAccent">#e94f1d</color>
+    <color name="splashtext">#50bcaa</color>
+    <color name="_black">#000000</color>
+    <color name="blackvariant1">#333333</color>
+    <color name="greytext">#959595</color>
+    <color name="greyishBrown">#4b4b4b</color>
+    <color name="greyishBrown50">#804b4b4b</color>
+    <color name="_white">#FFFFFF</color>
+    <color name="Red">#EF0A18</color>
+    <color name="Green">#00cc7a</color>
+    <color name="offWhite">#194b4b4b</color>
+    <color name="numbertextcolor">#4B4B4B</color>
+    <color name="transparentnumbertextcolor">#804B4B4B</color>
+    <color name="transparentcolorPrimary">#803db5ea</color>
+    <color name="proceedtouched">#1E90FF</color>
+    <color name="grey_variant_1">#ADADAD</color>
+    <color name="grey_variant_2">#dcdcdc</color>
+    <color name="grey_variant_3">#AEAEAE</color>
+    <color name="greyVariant4">#0d000000</color>
+    <color name="black_variant_1">#333333</color>
+    <color name="orange">#E94F1D</color>
+    <!-- Text color for a button in a pad. -->
+    <color name="pad_button_text_color">#FFF</color>
+    <!-- Ripple color when a button is pressed in a pad. -->
+    <color name="pad_button_ripple_color">#33FFFFFF</color>
+    <color name="black_variant_4">#6d6d6d</color>
+    <color name="pad_operator_background_color">#959595</color>
+    <color name="black_variant_3">#4b4b4b</color>
+    <color name="background_filterlayout">#FAFAFA</color>
+    <color name="dateborder">#A5A5A5</color>
+    <color name="hintColor">#888888</color>
+    <color name="black_light">#444444</color>
+    <color name="_transparent">#b3ffffff</color>
+    <color name="highlight">#f3f3f3</color>
+    <color name="warm_grey">#959595</color>
+    <color name="gray_dark">#5D5E5F</color>
+    <color name="darkSkyBlue">#3db5ea</color>
+    <color name="greyBorder">#19e3dfdf</color>
+    <color name="warm_grey_two">#777777</color>
+    <color name="background_filter">#05000000</color>
+    <color name="successColor">#133ab7</color>
+    <color name="borderGray">#dcdcdc</color>
+    <color name="greeny_blue">#50bcaa</color>
+    <color name="semitransparent_white">#77ffffff</color>
+    <color name="greyish_brown_50">#804b4b4b</color>
+    <!-- Background color of the calculator display. -->
+    <color name="display_background_color">#FFF</color>
+
+    <color name="black_variant_5">#e5e5e5</color>
+    <!-- Text color for the formula in the calculator display. -->
+    <color name="display_formula_text_color">#8A000000</color>
+    <!-- Text color for the result in the calculator display. -->
+    <color name="display_result_text_color">#6C000000</color>
+    <!-- Color to indicate an error has occured. -->
+    <color name="calculator_error_color">#F40056</color>
+    <!-- Default background color for the status bar. -->
+    <color name="calculator_accent_color">#00BCD4</color>
+    <!-- Background color for the Transaction Failed. -->
+    <color name="tomato">#e94f1d</color>
+
+    <color name="black_variant_6">#f5f5f5</color>
+    <color name="floatingLabelTextColor">#b3b3b3</color>
+
+    <color name="textviewSolid">#05000000</color>
+    <color name="textviewBorder">#0d000000</color>
+
+    <color name="black_80pc_opaque">#cc000000</color>
+    <color name="coral_blue">#1DAEFA</color>
+    <color name="_dark_blue">#125D9D</color>
+    <color name="circleProgressCompleteStartGradient">@color/_dark_blue</color>
+    <color name="circleProgressCompleteEndGradient">@color/coral_blue</color>
+    <color name="circleProgressIncompleteStartGradient">@color/_white</color>
+    <color name="circleProgressIncompleteEndGradient">#3db5ea</color>
+
+    <color name="keyShadow">#fafafa</color>
+
+    <color name="textfilterOptions">#555555</color>
+    <color name="grey_variant70">#B3dcdcdc</color>
+    <color name="black_transparent70">#B3000000</color>
+    <color name="black_transparent10">#1A000000</color>
+    <color name="whiteOpaque90">#e6ffffff</color>
+    <color name="brightBlue">#005cff</color>
+    <color name="white20pcOpaque">#33ffffff</color>
+    <color name="blackOpaque10">#1A000000</color>
+    <color name="bright_blue">#005cff</color>
+    <color name="black_variant_12">#eeeeee</color>
+    <color name="green_variant_5">#008777</color>
+    <color name="gray_variant">#EDEDED</color>
+    <color name="dark_tomato">#D1471A</color>
+    <color name="blue_variant_1">#0053d8</color>
+    <color name="barodd">#4D8DFF</color>
+    <color name="bareven">#80AEFF</color>
+    <color name="totalTransaction">#50BCAA</color>
+    <color name="transactionAmount">#333333</color>
+    <color name="totalAmount">#005CFF</color>
+    <color name="viewLine">#EAEAEA</color>
+    <color name="summaryText">#B3B3B3</color>
+    <color name="refund">#ffb400</color>
+
+    <!-- Wallet SDK -->
+
+    <color name="wallet_primary">#3db5ea</color>
+    <color name="wallet_primary_dark">#0053e5</color>
+    <color name="wallet_nav_color">#ffffff</color>
+    <color name="wallet_title_bar_color">#4b4b4b</color>
+    <color name="wallet_pin_small_round_bg">#0053e5</color>
+    <color name="wallet_accent">#3db5ea</color>
+    <color name="wallet_button_focused_color">#3db5ea</color>
+    <color name="wallet_toolbar_divider_color">#959595</color>
+    <color name="wallet_payment_screen_other_btn_text_color">#fff</color>
+    <color name="wallet_payment_screen_bg">@color/colorPrimaryDark</color>
+    <color name="wallet_favourite_bar_color">#ffffff</color>
+    <color name="wallet_favorite_text_color">@color/greyishBrown</color>
+    <color name="wallet_favourite_title_color">@color/greyishBrown</color>
+
+
+    <color name="mint">#ffb400</color>
+    <color name="dark_blue">@color/colorPrimaryDark</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <!--Added for UPI - 08/05/2020-->
+    <color name="color_close_button_text">#f5ffff</color>
+    <color name="color_status_button_text_">#133a7f</color>
+    <color name="color_text_default">#222222</color>
+    <color name="color_hint_text">#9a9a9a</color>
+    <color name="color_toolbar_title">#f7ffff</color>
+    <color name="color_amount">#292929</color>
+    <color name="color_store_name">#353535</color>
+
+</resources>
